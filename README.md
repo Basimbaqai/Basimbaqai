@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Basim Baqai]
 
 ## 🚀 About Me
 I'm a passionate **Machine Learning** and **Data Science** enthusiast with a keen interest in building intelligent systems that solve real-world problems. I love working with data, developing predictive models, and optimizing machine learning workflows.
 
 - 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **Apache Kafka, MLOps, and Advanced Deep Learning**
-- 🏆 Kaggle Contributor & Open Source Enthusiast
-- 🎯 Interested in **Generative AI, Time Series Forecasting, and Scalable ML Systems**
+- 🌱 Learning **AWS, Image Diffusion, Generative AI**
+- 🏆 Kaggle Contributor
+- 🎯 Interested in **Generative AI, Computer Vision, Aerospace, Robotics**
 
 ## 🛠️ Skills & Tools
 
@@ -46,7 +46,7 @@ I have a strong passion for **computer vision**, working on projects involving *
 ### 🔹 [Project 1: Constellation Classification](https://github.com/yourusername/constellation-classification)
 Developed an image-based classifier for identifying constellations from star images.
 
-### 🔹 [Project 2: Physics Simulation Generator](https://github.com/yourusername/physics-simulation)
+### 🔹 [Project 2: Abstract Art Generation Using Stable Diffusion](https://github.com/yourusername/physics-simulation)
 Created an interactive physics simulation generator using NLP and data parsing.
 
 ## 📫 Connect with Me
