@@ -41,14 +41,6 @@ I have a strong passion for **computer vision**, working on projects involving *
 - **Object Detection** with YOLO and Faster R-CNN.
 - **Image Classification** leveraging CNNs and Transfer Learning techniques.
 
-## 📂 Featured Projects
- 
-### 🔹 Project 1: Constellation Classification(https://github.com/Basimbaqai/Constellations-Classifier)
-Developed an image-based classifier for identifying constellations from star images.
-
-### 🔹 Project 2: Abstract Art Generation Using Stable Diffusion(https://github.com/yourusername/physics-simulation)
-
-
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
