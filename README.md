@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Basim Baqai]
+# Hi there! 👋 I'm Basim Baqai
 
 ## 🚀 About Me
 I'm a passionate **Machine Learning** and **Data Science** enthusiast with a keen interest in building intelligent systems that solve real-world problems. I love working with data, developing predictive models, and optimizing machine learning workflows.
@@ -43,11 +43,11 @@ I have a strong passion for **computer vision**, working on projects involving *
 
 ## 📂 Featured Projects
  
-### 🔹 [Project 1: Constellation Classification](https://github.com/yourusername/constellation-classification)
+### 🔹 Project 1: Constellation Classification(https://github.com/Basimbaqai/Constellations-Classifier)
 Developed an image-based classifier for identifying constellations from star images.
 
-### 🔹 [Project 2: Abstract Art Generation Using Stable Diffusion](https://github.com/yourusername/physics-simulation)
-Created an interactive physics simulation generator using NLP and data parsing.
+### 🔹 Project 2: Abstract Art Generation Using Stable Diffusion(https://github.com/yourusername/physics-simulation)
+
 
 ## 📫 Connect with Me
 
