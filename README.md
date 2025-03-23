@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Machine Learning** and **Data Science** enthusiast with a keen interest in building intelligent systems that solve real-world problems. I love working with data, developing predictive models, and optimizing machine learning workflows.
 
-- 🔭 Currently working on **[Your Current Project]**
+
 - 🌱 Learning **AWS, Image Diffusion, Generative AI**
 - 🏆 Kaggle Contributor
 - 🎯 Interested in **Generative AI, Computer Vision, Aerospace, Robotics**
