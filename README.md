@@ -42,7 +42,7 @@ I have a strong passion for **computer vision**, working on projects involving *
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/basim-baqai/)
 - 📧 Email: basimbaqai2004@gmail.com
 
 💡 *Feel free to fork, contribute, or reach out if you want to collaborate on exciting projects!* 🚀
