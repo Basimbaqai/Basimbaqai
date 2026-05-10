@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:085041&height=140&section=header&text=Basim%20Baqai&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer&descAlignY=78&descSize=18&descColor=9FE1CB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:085041&height=160&section=header&text=Basim%20Baqai&fontSize=46&fontColor=ffffff&fontAlignY=52&desc=AI%20Engineer%20%E2%80%94%20Agents%20%C2%B7%20CV%20%C2%B7%20Fine-tuning%20%C2%B7%20GenAI&descAlignY=74&descSize=16&descColor=9FE1CB&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=1D9E75&center=true&vCenter=true&width=600&lines=Agents+%C2%B7+Computer+Vision+%C2%B7+Fine-tuning+%C2%B7+GenAI;Building+AI+systems+that+actually+ship.;Open+to+engineering+roles+%26+collaborations.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1400&color=1D9E75&center=true&vCenter=true&multiline=false&width=640&lines=Building+AI+systems+that+actually+ship.;Agents+%C2%B7+Fine-tuning+%C2%B7+Computer+Vision+%C2%B7+GenAI;QLoRA+%C2%B7+DPO+%C2%B7+RLHF+%C2%B7+RAG+%C2%B7+vLLM+%C2%B7+ONNX;Open+to+engineering+roles+%26+collaborations.)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basim-baqai/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/basimbaqai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:basimbaqai2004@gmail.com)
-[![Open to work](https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=flat-square&logo=checkmarx&logoColor=white)](mailto:basimbaqai2004@gmail.com)
+[![Open to work](https://img.shields.io/badge/Open%20to%20opportunities-%232ea44f?style=flat-square&logo=checkmarx&logoColor=white)](mailto:basimbaqai2004@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=Basimbaqai&style=flat-square&color=1D9E75&label=profile+views)](https://github.com/Basimbaqai)
 
 </div>
 
@@ -64,23 +65,29 @@ GenAI             →  RAG pipelines · multimodal · LLM evaluation · prompt e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Basimbaqai&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basimbaqai&layout=compact&hide_border=true&theme=default&bg_color=00000000" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Basimbaqai&show_icons=true&hide_border=true&rank_icon=github&theme=default&include_all_commits=true&count_private=true" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basimbaqai&layout=compact&hide_border=true&theme=default&langs_count=8" height="155"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Basimbaqai&hide_border=true&theme=default" height="130"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Basimbaqai&hide_border=true&theme=default&date_format=j%20M%5B%20Y%5D" height="130"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Basimbaqai&theme=flat&no-frame=true&margin-w=6&column=6" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Basimbaqai&theme=default" width="100%"/>
 
 </div>
 
 ---
 
-## Contribution graph
+## Activity graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basimbaqai&theme=minimal&hide_border=true&area=true&color=1D9E75&line=0C447C&point=085041" width="100%"/>
+
+---
+
+## Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basimbaqai/Basimbaqai/output/github-snake-dark.svg"/>
