@@ -81,12 +81,6 @@ GenAI             →  RAG pipelines · multimodal · LLM evaluation · prompt e
 
 ---
 
-## Activity graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basimbaqai&theme=minimal&hide_border=true&area=true&color=1D9E75&line=0C447C&point=085041" width="100%"/>
-
----
-
 ## Contribution snake
 
 <picture>
