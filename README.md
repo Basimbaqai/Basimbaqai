@@ -65,7 +65,7 @@ GenAI             →  RAG pipelines · multimodal · LLM evaluation · prompt e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Basimbaqai&show_icons=true&hide_border=true&rank_icon=github&theme=default&include_all_commits=true&count_private=true" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Basimbaqai&show_icons=true&hide_border=true&rank_icon=github&theme=default&hide=commits" height="155"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basimbaqai&layout=compact&hide_border=true&theme=default&langs_count=8" height="155"/>
 
