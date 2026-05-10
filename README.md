@@ -1,49 +1,72 @@
-# Hi there! 👋 I'm Basim Baqai
+<div align="center">
 
-## 🚀 About Me
-I'm a passionate **Machine Learning** and **Data Science** enthusiast with a keen interest in building intelligent systems that solve real-world problems. I love working with data, developing predictive models, and optimizing machine learning workflows.
+# Basim Baqai
 
+**AI Engineer · Agents · Computer Vision · Fine-tuning · GenAI**
 
-- 🏆 Kaggle Contributor
-- 🎯 Interested in **Generative AI, Computer Vision, Aerospace, Robotics**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basim-baqai/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:basimbaqai2004@gmail.com)
 
-## 🛠️ Skills & Tools
+</div>
 
-### 💻 Programming Languages
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+## About
 
+AI Engineer building production-grade intelligent systems. My work spans the full stack of modern AI — from **fine-tuning and aligning foundation models** to shipping **agentic pipelines** and **computer vision** systems in the real world.
 
-### 🤖 Machine Learning & AI
+I work across the research-to-deployment spectrum: designing multi-step agent architectures, fine-tuning LLMs for domain-specific tasks, and building CV systems from prototype to production.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+---
 
-### 📊 Data Visualization
+## Work
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### Agents & LLMs
+- Designing and deploying **agentic systems** with tool use, memory, and multi-step reasoning
+- **Fine-tuning** foundation models (SFT, RLHF, DPO) for domain-specific applications
+- RAG pipelines, prompt engineering, and LLM evaluation frameworks
 
-### ☁️ Cloud & Deployment
+### Computer Vision
+- **Object Detection** — YOLO and Faster R-CNN for production multi-class detection
+- **Facial Recognition** — end-to-end pipeline using OpenCV and deep learning; optimized for real-time inference
+- **Image Classification** — transfer learning with fine-tuned backbones (ResNet, EfficientNet, ViT)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Generative AI
+- Multi-modal systems and image generation workflows
+- LLM application development with frameworks like LangChain and LlamaIndex
 
-## 🔬 Computer Vision
-I have a strong passion for **computer vision**, working on projects involving **object detection, image segmentation, and scene recognition**. Some of my projects include:
+---
 
-- **Facial Recognition System** using OpenCV and deep learning models.
-- **Object Detection** with YOLO and Faster R-CNN.
-- **Image Classification** leveraging CNNs and Transfer Learning techniques.
+## Stack
 
-## 📫 Connect with Me
+**Languages** — Python · SQL
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/basim-baqai/)
-- 📧 Email: basimbaqai2004@gmail.com
+**AI/ML** — PyTorch · HuggingFace Transformers · LangChain · LlamaIndex · OpenCV · Scikit-learn
 
-💡 *Feel free to fork, contribute, or reach out if you want to collaborate on exciting projects!* 🚀
+**GenAI** — OpenAI · Anthropic Claude · Diffusion Models · PEFT / LoRA fine-tuning
 
+**Infra** — Docker · AWS · GCP · Git · FastAPI
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Basim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basim-baqai&show_icons=true&theme=default&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basim-baqai&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## Interests
+
+`Agentic AI` `Computer Vision` `Generative AI` `Fine-tuning` `Robotics` `Aerospace`
+
+---
+
+<div align="center">
+<sub>Open to collaborations, research, and engineering opportunities · <a href="mailto:basimbaqai2004@gmail.com">reach out</a></sub>
+</div>
